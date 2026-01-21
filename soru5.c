@@ -1,4 +1,4 @@
-//NEGATİF SAYİ DİZİYE AKTARMA
+//NEGATİF SAYİ DİZİYE AKTARMA.
 
 #include<stdio.h>
 #include<stdlib.h>
