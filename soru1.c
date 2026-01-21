@@ -1,4 +1,4 @@
-// EN BUYUK ÇİFT VE TEK SAYİ BULMA
+// EN BUYUK ÇİFT VE EN KUCUK TEK SAYİ BULMA
 
 #include<stdio.h>
 #include<stdlib.h>
