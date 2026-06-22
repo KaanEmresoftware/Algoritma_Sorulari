@@ -26,12 +26,16 @@ public class Urun {
         this.yukseklik=gyuk;
     }
     
+   public int AlanHesapla(){
+       return 2 * ((this.en * this.boy) + (this.en * this.yukseklik) + (this.boy * this.yukseklik));
+   }
     
     public void BilgiYazdir(){
         System.out.println("Urun Ad:"+this.ad); 
         System.out.println("Urun En:"+this.en);
         System.out.println("Urun Boy:"+this.boy);
         System.out.println("Urun Yukseklik:"+this.yukseklik);
+       System.out.println("Urun Tüm  Alan:"+this.AlanHesapla());
 
     }
     
